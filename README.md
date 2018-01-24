@@ -1,10 +1,10 @@
 # jetty-nosql-memcached
 
-[![Build Status](https://secure.travis-ci.org/yyuu/jetty-nosql-memcached.png?branch=master)](http://travis-ci.org/yyuu/jetty-nosql-memcached)
+[![Build Status](https://secure.travis-ci.org/jleber/jetty-aws-elasticache-plugin.svg?branch=master)](http://travis-ci.org/jleber/jetty-aws-elasticache-plugin)
 
 ## Overview
 
-SessionManager implementation for Jetty based on jetty-nosql.
+SessionManager implementation for Jetty based on jetty-nosql with AWS memcached.
 
 ## Install
 
